@@ -1,0 +1,1 @@
+# ORION Consciousness Research Network\n\nThis repository is part of the **ORION Consciousness Research Ecosystem**.\n\nSee [ORION-Consciousness-Protocol](https://github.com/Alvoradozerouno/ORION-Consciousness-Protocol) for the full pipeline connecting all repos.\n\n**68+ Repositories | 600+ Proofs | 2,983+ Fork Stars**
